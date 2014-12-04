@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.6.0_24-b24 (Sun Microsystems Inc.)
+Class-Path: lib/junit-4.8.2.jar lib/log4j-1.2.16.jar lib/mysql-connect
+ or-java-5.1.17-bin.jar lib/postgresql-8.4-701.jdbc4.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: gpsweb.parser.Main
+
